@@ -1,0 +1,43 @@
+/* CSS Document */
+.nj-box{
+  box-sizing: border-box;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0px 0px 2px #eee;
+  border-radius: 5px;
+  max-width:250px;
+  font-size:14px;
+  margin:10px auto;
+}
+.clear{ clear:both; }
+.nj-hr{border-bottom: 1px solid #eee;
+height: 1px;
+background-color: #ddd;
+margin: 5px 0;}
+.nj-title{
+  background-color:#369;
+  padding:5px 10px;
+  border-radius:5px 5px 0 0;
+  }
+.nj-title a{
+  color:#fff;
+  }
+.nj-content{
+  margin:10px;
+  overflow:auto;
+  max-height: 250px;
+}
+.nj-at{ color:#369; font-weight:700; }
+.nj-content .nj-read{ color: #aaa; }
+.nj-more{ text-align:center; }
+.nj-more a{ color:#f90; }
+.nj-copy{
+  padding:3px 10px;
+  }
+.nj-copy .get{
+  float:right;
+  }
+.nj-copy a,.nj-copy{
+  font-size:10px;
+  color:#ccc;
+  }
+.nj-copy .ap{ float:left; }
